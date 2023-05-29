@@ -1,0 +1,11 @@
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\bin\Debug\eczane.exe.config
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\bin\Debug\eczane.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\bin\Debug\eczane.pdb
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.csproj.AssemblyReference.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.Form1.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.Properties.Resources.resources
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.csproj.GenerateResource.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.exe
+C:\Users\Fatih\OneDrive\Masaüstü\C#Dersleri\eczane\eczane\obj\Debug\eczane.pdb
